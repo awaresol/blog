@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/ahmet/Desktop/blog.awaresol.com/blog/.github/workflows/build.yml"
+  }
+}

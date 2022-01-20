@@ -4,8 +4,8 @@ const nextConfig = {
   basePath: "/blog",
   images: {
     loader: 'cloudinary',
-    path: 'https://res.cloudinary.com/awaresolofficial/image/upload/'
+    path: 'https://res.cloudinary.com/awaresolofficial/image/upload/blog/'
   },
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;

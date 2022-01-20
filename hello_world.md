@@ -1,0 +1,2 @@
+- Create a repository (Public or GitHub Enterprise)
+- Create an index.html file

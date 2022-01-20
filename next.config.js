@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  basePath: "/docs",
+  basePath: "/blog",
   images: {
     loader: 'cloudinary',
     path: 'https://res.cloudinary.com/awaresolofficial/image/upload/'

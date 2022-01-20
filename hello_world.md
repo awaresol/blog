@@ -5,3 +5,6 @@
 
 - Create next app
 - yarn create next-app --typescript
+- Add worflow
+- Add image loader
+- Add basepath
